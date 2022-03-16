@@ -106,4 +106,3 @@ permalink: /team/
 <!-- </div> -->
 {% endif %}
 
-</div>
