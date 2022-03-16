@@ -1,8 +1,8 @@
 - name: Arif Ahmed
-  photo:
+  # photo:
   duration: 2021-2021
   info: Postdoc
-  email: 
+  # email: 
   number_educ: 1
   education1: Currently at <a href="https://curiaglobal.com/?redirect=amri">Curia</a>
   education2:
@@ -10,9 +10,9 @@
   education4:
 
 - name: Han Bao
-  photo: 
+  # photo: 
   info: Postdoc
   duration: 2019-2021
-  email: 
+  # email: 
   number_educ: 1
   education1: Currently at ThermoFisher Scientific
