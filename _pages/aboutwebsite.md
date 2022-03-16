@@ -7,6 +7,7 @@ permalink: /aboutwebsite.html
 ---
 
 # Use this website as a template for your academic research group
+This website was created based on the [Allan Lab](http://www.allanlab.org/) of Lieden University and they have made it freely available and editable for other academic labs. Thanks! Here are some details about how you can use this template for your site as well as outlined by the original creators.
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 
