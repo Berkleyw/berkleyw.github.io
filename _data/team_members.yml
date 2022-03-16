@@ -7,7 +7,7 @@
   education2: Postdoc with <a href="https://ripe.illinois.edu/team/don-ort">Don Ort</a>, University of Illinois/USDA-ARS
   education3: Alexander von Humboldt Postdoc Fellowship with <a href="https://www.plant-biochemistry.hhu.de/en/">Andreas Weber</a>
   education4: Likes science, adventures and learning something new
-  education5: <a href="https://twitter.com/BerkleyW6">J Twitter</a>
+  education5: <a href="https://twitter.com/BerkleyW6">Twitter</a>
 
 - name: Kelem Alamarie
   photo: Kelem.jpg
@@ -42,12 +42,12 @@
   email: smit3147@msu.edu
   number_educ: 2
   education1: BS in Biological Sciences with minors in Chemistry and Mathematics from DePaul University 
-  education2: 2.	I am obsessed with my dog Potato
+  education2: I am obsessed with my dog Potato
 
 - name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  photo: BlankFace.png
+  info: See <a href="http://www.berkleywalker.org/vacancies">openings</a> for more info
+  # email: milan.allan@gmail.com
   number_educ: 0
   education1:
   education2:
