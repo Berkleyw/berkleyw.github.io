@@ -18,86 +18,31 @@
   education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
   education3: B.S. East China University of Science and Technology
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Visitor/collaborator, currently postdoc in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Xinyu Fu 
+  photo: Xinyu.jpg
+  info: Postdoctoral Scholar
+  email: fuxinyu2@msu.edu
   number_educ: 3
-  education1: Postdoc in the Allan Lab, Leiden University
-  education2: PhD with Milan Allan, Leiden University (started Sep 2015)
-  education3: Master Leiden University with Milan Allan
+  education1: PhD, Iowa State University
+  education2: Interested in metabolomics and modeling
+  education3: <a href="https://twitter.com/xyplore"> Twitter</a>
+
+- name: Luke Gregory 
+  photo: Gregory.jpg
+  info: Graduate Student
+  email: grego215@msu.edu
+  number_educ: 3
+  education1: BS in Biology (minors in Chemistry and Leadership Studies) at Slippery Rock University 
+  education2: Likes quaint coffee shops and diner food, bowling with friends, and heading back to Pennsylvania to visit family
+  education3: <a href=" https://twitter.com/LukeMGregory">J Twitter</a>
+
+- name: Kaila Smith
+  photo: Kaila.jpeg
+  info: Graduate Student
+  email: smit3147@msu.edu
+  number_educ: 2
+  education1: BS in Biological Sciences with minors in Chemistry and Mathematics from DePaul University 
+  education2: 2.	I am obsessed with my dog Potato
 
 - name: "This could be you !"
   photo: rock.jpg
