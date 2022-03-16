@@ -57,7 +57,7 @@ The Walker Laboratory focuses on understanding how photosynthesis interacts with
 We are grateful for funding from numerous places including support from Michigan State University, The Department of Energy and the National Science Foundation. We are also a member of the <a href="https://www.glbrc.org/">Great Lakes Bioenergy Research Center</a>.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Spartan.jpg" style="width: 25x">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Spartan.jpg" style="width: 25x"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DOE.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GLBRC.jpg" style="width: 150px">
