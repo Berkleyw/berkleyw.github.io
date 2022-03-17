@@ -1,5 +1,5 @@
 - name: Arif Ahmed
-  # photo:
+  photo: Arif.jpg
   duration: 2021-2021
   info: Postdoc
   # email: 
@@ -10,7 +10,7 @@
   education4:
 
 - name: Han Bao
-  # photo: 
+  photo: Han.jpg
   info: Postdoc
   duration: 2019-2021
   # email: 
