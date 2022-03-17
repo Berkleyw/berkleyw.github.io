@@ -321,23 +321,23 @@
     display: Phys. Rev. Lett. 101, 026407 (2008)
   highlight: 0
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
+- title: Influence of temperature on measurements of the CO<sub>2</sub> compensation point; differences between the Laisk and O<sub>2</sub>-exchange methods
+  image: dummy.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    Maybe photorespiration loses more carbon dioxide than we think...
   authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+    Berkley J Walker, Asaph B Cousins
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
+    url: https://academic.oup.com/jxb/article/64/7/1893/581474?login=true
     display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+  highlight: 0
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: Peroxisomal hydroxypyruvate reductase is not essential for photorespiration in Arabidopsis but its absence causes an increase in the stoichiometry of photorespiratory CO<sub>2</sub> release
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+    Asaph B Cousins, Berkley J Walker, Itsara Pracharoenwattana, Steven M Smith, Murray R Badger
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://link.springer.com/article/10.1007/s11120-011-9651-3
+    display: Photosynthesis Research 108 (2), 91-100
   highlight: 0
