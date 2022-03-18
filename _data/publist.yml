@@ -27,6 +27,7 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.348
     display:  Food and Energy Security, e348 (2021)
   highlight: 1
+  news2: This paper was highlighted in <a href="https://facultyopinions.com/article/741255074#eval793590309"> Faculty Opinions</a>
 
 - title: Isotope ratio-based quantification of carbon assimilation highlights the role of plastidial isoprenoid precursor availability in photosynthesis
   image: dummy.png
@@ -67,7 +68,7 @@
     url: https://academic.oup.com/plphys/article/186/1/297/6137851?login=true
     display:  Plant Physiology 186 (1), 297-314 (2021)
   highlight: 1
-  news2:
+  news2: This paper was highlighted in <a href="https://facultyopinions.com/article/739568053#eval793590972"> Faculty Opinions</a>
 
 - title: A reporting format for leaf-level gas exchange data and metadata
   image: dummy.png
