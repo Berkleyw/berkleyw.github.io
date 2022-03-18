@@ -1,323 +1,303 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
-  news2:
-
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
-
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
+- title: Rubisco Regulation in Response to Altered Carbon Status in the Cyanobacterium Synechococcus elongatus PCC 7942
+  image: dummy.png
   description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  authors: AK Singh, M Santos-Merino, JK Sakkos, BJ Walker, DC Ducat
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: https://academic.oup.com/plphys/advance-article-abstract/doi/10.1093/plphys/kiac065/6535719
+    display:  Plant Physiology (2022)
   highlight: 0
   news2:
 
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: Catalase protects against nonenzymatic decarboxylations during photorespiration in Arabidopsis thaliana
+  image: dummy.png
+  description: Photorespriation is not always as efficeint as we think...
+  authors: H Bao, M Morency, W Rianti, S Saeheng, S Roje, APM Weber, BJ Walker
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
-
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
-  link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.366
+    display:  Plant Direct 5 (12), e366 (2021)
+  highlight: 0
   news2:
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
+- title: Photon to plate; A holistic view of photosynthetic and anthropogenic energy fluxes
+  image: potatoes.jpg
+  description: Did you know that plant inefficiencies dissipate 80X more energy than all the energy that humans use to plant, cultivate, harvest, transport and prepare an order of french fries?
+  authors: HE Roney, BJ Walker
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.348
+    display:  Food and Energy Security, e348 (2021)
+  highlight: 1
+
+- title: Isotope ratio-based quantification of carbon assimilation highlights the role of plastidial isoprenoid precursor availability in photosynthesis
+  image: dummy.png
   description:
+  authors: ME Bergman, D González-Cabanelas, LP Wright, BJ Walker, MA Phillips
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: https://link.springer.com/article/10.1186/s13007-021-00731-8
+    display: Plant methods 17 (1), 1-17 (2021)
   highlight: 0
   news2:
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+
+- title: The triose phosphate utilization limitation of photosynthetic rate; Out of global models but important for leaf models
+  image: dummy.png
+  description:
+  authors: Luke M Gregory, Alan M McClain, David M Kramer, Jeremy D Pardo, Kaila E Smith, Oliver L Tessmer, Berkley J Walker, Leonardo G Ziccardi, Thomas D Sharkey
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14153
+    display:  Plant, Cell & Environment 44 (10), 3223-3226 (2021)
+  highlight: 0
+  news2: 
+
+- title: The roles of photorespiration and alternative electron acceptors in the responses of photosynthesis to elevated temperatures in cowpea
+  image: dummy.png
+  authors: I Osei‐Bonsu, AM McClain, BJ Walker, TD Sharkey, DM Kramer
+  description: At high temperatures photorespiration appears to be an important electron sink for protecting the light reactions
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14026
+    display:  Plant, Cell & Environment 44 (7), 2290-2307 (2021)
   highlight: 0
   news2:
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: The metabolic origins of non-photorespiratory CO2 release during photosynthesis; a metabolic flux analysis
+  image: fluxmap.jpeg
+  authors: Y Xu, X Fu, TD Sharkey, Y Shachar-Hill, BJ Walker
+  description: The metabolic origin of respiration in the light is not clear. Here is our first paper using metabolic flux analysis to shwo that it is NOT from the TCA cycle
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: https://academic.oup.com/plphys/article/186/1/297/6137851?login=true
+    display:  Plant Physiology 186 (1), 297-314 (2021)
   highlight: 1
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: A reporting format for leaf-level gas exchange data and metadata
+  image: dummy.png
+  description:
+  authors: A lot
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
-
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://www.sciencedirect.com/science/article/pii/S1574954121000236
+    display:  Ecological Informatics 61, 101232 (2021)
   highlight: 0
   news2:
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: Overexpression of the chloroplastic 2-oxoglutarate/malate transporter disturbs carbon and nitrogen homeostasis in rice
+  image: dummy.png
+  description:
+  authors: Shirin Zamani-Nour, Hsiang-Chun Lin, Berkley J Walker, Tabea Mettler-Altmann, Roxana Khoshravesh, Shanta Karki, Efren Bagunu, Tammy L Sage, W Paul Quick, Andreas PM Weber
+  link:
+    url: https://academic.oup.com/jxb/article/72/1/137/5876226?login=true
+    display:  Journal of experimental botany 72 (1), 137-152 (2021)
+  highlight: 0
+  news2:
+
+- title: Flexibility in the energy balancing network of photosynthesis enables safe operation under changing environmental conditions
+  image: balancing.jpg
+  description: Energy production during photorespiration has to be balanced by energy consumption from metabolism...but how does that happen?
+  authors: BJ Walker, DM Kramer, N Fisher, X Fu
+  link:
+    url: https://www.mdpi.com/2223-7747/9/3/301
+    display: Plants 9 (3), 301 (2020)
+  highlight: 1
+  news2:
+
+- title: Sulfate Metabolism in C4  Flaveria Species Is Controlled by the Root and Connected to Serine Biosynthesis
+  image: dummy.png
+  description:
+  authors: SC Gerlich, BJ Walker, S Krueger, S Kopriva
+  link:
+    url: https://academic.oup.com/plphys/article/178/2/565/6116593?login=true
+    display:  Plant physiology 178 (2), 565-582 (2018)
+  highlight: 0
+  news2:
+
+- title: The impacts of fluctuating light on crop performance
+  image: dummy.png
+  description: 
+  authors: RA Slattery, BJ Walker, APM Weber, DR Ort
+  link:
+    url: https://academic.oup.com/plphys/article/176/2/990/6117319?login=true
+    display:  Plant physiology 176 (2), 990-1003 (2018)
+  highlight: 0
+  news2:
+
+- title: Chlorophyll can be reduced in crop canopies with little penalty to photosynthesis
+  image: dummy.png
+  description: You may not be able to increase photosynthetic rates by increasing light penetration through chlorophyll reduction, but you might be able to save on nitrogen!
+  authors: BJ Walker, DT Drewry, RA Slattery, A VanLoocke, YB Cho, DR Ort
+  link:
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X_Ny2ccAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=X_Ny2ccAAAAJ:eJXPG6dFmWUC
+    display:  Plant Physiology 176 (2), 1215-1232 (2018)
+  highlight: 0
+
+- title: Survey of tools for measuring in vivo photosynthesis
+  image: dummy.png
+  description: Great overview of methods to measure photosynthetic rates at different scales
+  authors: BJ Walker, FA Busch, SM Driever, J Kromdijk, T Lawson
+  link:
+    url: https://link.springer.com/protocol/10.1007/978-1-4939-7786-4_1
+    display:  Photosynthesis, 3-24 (2018)
+  highlight: 0
+  news2:
+
+- title: SHORTROOT-mediated increase in stomatal density has no impact on photosynthetic efficiency
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: ML Schuler, OV Sedelnikova, BJ Walker, P Westhoff, JA Langdale
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://academic.oup.com/plphys/article/176/1/757/6117284?login=true
+    display:  Plant Physiology 176 (1), 757-772 (2018)
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+  news2: 
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+- title: Uncertainty in measurements of the photorespiratory CO2 compensation point and its impact on models of leaf photosynthesis
   image: dummy.png
   description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+  authors: BJ Walker, DJ Orr, E Carmo-Silva, MAJ Parry, CJ Bernacchi, DR Ort
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: https://link.springer.com/article/10.1007/s11120-017-0369-8
+    display:  Photosynthesis research 132 (3), 245-255 (2017)
   highlight: 0
   news2:
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
+- title: Feedback linearization control methods for accurate leaf photosynthesis measurements
+  image: dummy.png
   description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
+    
   authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+    PE Paré, BJ Walker, J McGrath
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: https://ieeexplore.ieee.org/abstract/document/7963051
+    display: 2017 American Control Conference (ACC), 801-806 (2017)
   highlight: 0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
+- title: Bile Acid Sodium Symporter BASS6 Can Transport Glycolate and Is Involved in Photorespiratory Metabolism in Arabidopsis thaliana
+  image: dummy.png
   description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
   authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+    PF South, BJ Walker, AP Cavanagh, V Rolland, M Badger, DR Ort
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+    url: https://academic.oup.com/plcell/article/29/4/808/6100960?login=true
+    display: The Plant Cell 29 (4), 808-823 (2017)
+  highlight: 0
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
+- title: Recycling Carbon Dioxide during Xylose Fermentation by Engineered Saccharomyces cerevisiae
+  image: dummy.png
   description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+    Peng-Fei Xia, Guo-Chang Zhang, Berkley Walker, Seung-Oh Seo, Suryang Kwak, Jing-Jing Liu, Heejin Kim, Donald R Ort, Shu-Guang Wang, Yong-Su Jin
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
+    url: https://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00167
+    display: ACS synthetic biology 6 (2), 276-283 (2017)
+  highlight: 0
+  news2: 
+
+- title: Protection of the photosynthetic apparatus against dehydration stress in the resurrection plant Craterostigma pumilum
+  image: dummy.png
+  description:
+
+  authors:
+    Ahmad Zia, Berkley J Walker, Hui Min Olivia Oung, Dana Charuvi, Peter Jahns, Asaph B Cousins, Jill M Farrant, Ziv Reich, Helmut Kirchhoff
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13227
+    display: The Plant Journal 87 (6), 664-680 (2016)
+  highlight: 0
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+- title: Physiological evidence for plasticity in glycolate/glycerate transport during photorespiration
   image: dummy.png
   description: ""
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+    BJ Walker, PF South, DR Ort
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: https://link.springer.com/article/10.1007/s11120-016-0277-3
+    display: Photosynthesis Research 129 (1), 93-103 (2016)
   highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
   news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
+- title: An improved approach for measuring the impact of multiple CO2 conductances on the apparent photorespiratory CO2 compensation point through slope–intercept regression
+  image: dummy.png
   description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
   authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+    BJ Walker, DC Skabelund, FA Busch, DR Ort
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.12722
+    display: Plant, Cell & Environment 39 (6), 1198-1203 (2016)
+  highlight: 0
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
+- title: Manipulating photorespiration to increase plant productivity; recent advances and perspectives for crop improvement
+  image: dummy.png
   description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+    
   authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+    Marco Betti, Hermann Bauwe, Florian A Busch, Alisdair R Fernie, Olivier Keech, Myles Levey, Donald R Ort, Martin AJ Parry, Rowan Sage, Stefan Timm, Berkley Walker, Andreas PM Weber
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+    url: https://academic.oup.com/jxb/article/67/10/2977/1749382?login=true
+    display: Journal of Experimental Botany 67 (10), 2977-2988 (2016)
+  highlight: 0
+  news:
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
+- title: The costs of photorespiration to food production now and in the future
+  image: PR_US_Research.jpg
   description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+    Photorespiration has a huge impact on crop productivity
   authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+    BJ Walker, A VanLoocke, CJ Bernacchi, DR Ort
   highlight: 1
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: https://www.annualreviews.org/doi/abs/10.1146/annurev-arplant-043015-111709
+    display: Annual Review of Plant Biology 67, 107-129 (2016)
+  news2: 
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
+- title: The plastid casein kinase 2 phosphorylates Rubisco activase at the Thr-78 site but is not essential for regulation of Rubisco activation state
+  image: dummy.png
   description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+    
   authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+    Sang Y Kim, Kyle W Bender, Berkley J Walker, Raymond E Zielinski, Martin H Spalding, Donald R Ort, Steven C Huber
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2016.00404/full
+    display: Frontiers in plant science 7, 404 (2016)
+  highlight: 0
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+- title: Improved method for measuring the apparent CO2 photocompensation point resolves the impact of multiple internal conductances to CO2 to net gas exchange
   image: dummy.png
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: BJ Walker, DR Ort
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.12562
+    display:  Plant, Cell & Environment 38 (11), 2462-2474 (2015)
   highlight: 0
   news2:
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
+- title: The response of cyclic electron flow around photosystem I to changes in photorespiration and nitrate assimilation
   image: dummy.png
   description:
-    QPI in Sr327.
+    Cyclic electron flux seems to play a role in energy balancing for photorespiration under high but not low light conditions.
+  authors:
+    BJ Walker, DD Strand, DM Kramer, AB Cousins
+  link:
+    url: https://academic.oup.com/plphys/article/165/1/453/6113215?login=true
+    display: Plant Physiology 165 (1), 453-462 (2014)
+  highlight: 0
+  news1:
+
+- title: The Coordination of C4 Photosynthesis and the CO2-Concentrating Mechanism in Maize and Miscanthus × giganteus in Response to Transient Changes in Light Quality
+  image: dummy.png
+  description:
   authors: W Sun, N Ubierna, JY Ma, BJ Walker, DM Kramer, AB Cousins
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Plant physiology 164 (3), 1283-1292
+    url: https://academic.oup.com/plphys/article/164/3/1283/6113069?login=true
+    display: Plant physiology 164 (3), 1283-1292 (2014)
   highlight: 0
 
 - title: Temperature response of in vivo Rubisco kinetics and mesophyll conductance in Arabidopsis thaliana; comparisons to Nicotiana tabacum
   image: dummy.png
-  description: ""
+  description:
   authors:
     B Walker, LS Ariza, S Kaines, MR Badger, AB Cousins
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.12166
-    display: Plant, Cell & Environment 36 (12), 2108-2119
+    display: Plant, Cell & Environment 36 (12), 2108-2119 (2013)
   highlight: 0
 
 - title: Influence of temperature on measurements of the CO<sub>2</sub> compensation point; differences between the Laisk and O<sub>2</sub>-exchange methods
@@ -328,7 +308,7 @@
     BJ Walker, AB Cousins
   link:
     url: https://academic.oup.com/jxb/article/64/7/1893/581474?login=true
-    display: Journal of Experimental Botany 64 (7), 1893-1905
+    display: Journal of Experimental Botany 64 (7), 1893-1905 (2013)
   highlight: 0
 
 - title: Peroxisomal hydroxypyruvate reductase is not essential for photorespiration in Arabidopsis but its absence causes an increase in the stoichiometry of photorespiratory CO<sub>2</sub> release
@@ -338,5 +318,5 @@
     AB Cousins, BJ Walker, I Pracharoenwattana, SM Smith, MR Badger
   link:
     url: https://link.springer.com/article/10.1007/s11120-011-9651-3
-    display: Photosynthesis Research 108 (2), 91-100
+    display: Photosynthesis Research 108 (2), 91-100 (2011)
   highlight: 0
