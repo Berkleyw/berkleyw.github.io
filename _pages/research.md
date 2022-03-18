@@ -10,6 +10,11 @@ permalink: /research/
 
 Research in our Lab reveals how photosynthetic fluxes interact with plant metabolism and the environment to drive energy capture, carbon fixation and growth. We use these findings to scale up the impact of photosynthetic metabolism to the leaf and canopy scale. Questions we find particularly interesting are those that produce a quantitative or integrative result. Our long-term vision is to combine classical measurements of carbon and energy exchange with recent advances in resolving metabolic fluxes through metabolism using isotopic labeling methods. Our ultimate goal is to engineer more efficient photosynthesis under dynamic conditions and better understand our planet’s response to climate change.
 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/PR_US_Research.jpg){: style="width: 70%; float: center; margin: 0px"}
+
+<em>Modeling can be used to understand plant performance under dynamic conditions. Shown is how much crop yield is decreased by a photorespiration; a byproduct of photosynthesis and an area of special interest to the Walker lab.
+Taken from Walker, VanLoocke, Bernacchi and Ort (2016) The costs of photorespiration to food production now and in the future. Annual review of plant biology (67).</em></p>
+
 We have three main projects in the lab that are supported by various awards
 
 **How does photorespiratory flux interact with other metabolisms?** 
