@@ -301,24 +301,23 @@
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
 - title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+  authors: W Sun, N Ubierna, JY Ma, BJ Walker, DM Kramer, AB Cousins
   link:
     url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    display: Plant physiology 164 (3), 1283-1292
   highlight: 0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
+- title: Temperature response of in vivo Rubisco kinetics and mesophyll conductance in Arabidopsis thaliana; comparisons to Nicotiana tabacum
+  image: dummy.png
+  description: ""
   authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+    B Walker, LS Ariza, S Kaines, MR Badger, AB Cousins
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.12166
+    display: Plant, Cell & Environment 36 (12), 2108-2119
   highlight: 0
 
 - title: Influence of temperature on measurements of the CO<sub>2</sub> compensation point; differences between the Laisk and O<sub>2</sub>-exchange methods
@@ -326,17 +325,17 @@
   description:
     Maybe photorespiration loses more carbon dioxide than we think...
   authors:
-    Berkley J Walker, Asaph B Cousins
+    BJ Walker, AB Cousins
   link:
     url: https://academic.oup.com/jxb/article/64/7/1893/581474?login=true
-    display: Nanoscale Research Letters 2, 94 (2007)
+    display: Journal of Experimental Botany 64 (7), 1893-1905
   highlight: 0
 
 - title: Peroxisomal hydroxypyruvate reductase is not essential for photorespiration in Arabidopsis but its absence causes an increase in the stoichiometry of photorespiratory CO<sub>2</sub> release
   image: dummy.png
   description: ""
   authors:
-    Asaph B Cousins, Berkley J Walker, Itsara Pracharoenwattana, Steven M Smith, Murray R Badger
+    AB Cousins, BJ Walker, I Pracharoenwattana, SM Smith, MR Badger
   link:
     url: https://link.springer.com/article/10.1007/s11120-011-9651-3
     display: Photosynthesis Research 108 (2), 91-100
