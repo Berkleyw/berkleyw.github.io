@@ -36,5 +36,3 @@ Understanding the mechanisms of carbon dioxide release during photorespiration i
 Sustainable bioenergy systems require a shift from annual crops, like corn and soybean, to perennial crops that do not need to be replanted every year. These perennial crops avoid the annual soil disturbance that results in carbon dioxide release and a “carbon debt” that can take years to repay before the biofuel is net carbon negative. These perennial crops, like switchgrass, have unique physiology and high resilience to environmental stresses. In out lab we study the physiology of switchgrass to understand how it is able to maintain productivity under drought and other stresses to both further improve its productivity and learn lessons for potentially improving other crops.
 
 ### ... and more.
-
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/PR_US_Research.jpg){: style="width: 70%; float: center; margin: 0px"}
