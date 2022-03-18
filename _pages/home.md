@@ -34,7 +34,7 @@ The Walker Laboratory focuses on understanding how photosynthesis interacts with
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/PR_US_Research.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Album_Cover.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/album_Cover.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Berkley_plant.jpg" alt="Slide 5" />
