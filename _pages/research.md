@@ -21,6 +21,10 @@ We have three main projects in the lab that are supported by various awards
 
 Photorespiration is the second largest metabolic flux of carbon in an illuminated leaf and occurs when rubisco, the initial enzyme of carbon fixation, binds with oxygen instead of carbon dioxide and produces a molecule that must be recycled. Photorespiration recycles this molecule into Calvin-Benson cycle intermediates at the great cost of carbon dioxide and energy. Given its outsized role in central metabolism, we are interested in how photorespiration interacts with other aspects of central metabolism like nitrogen metabolism and one-carbon metabolism. To do this we use a variety of flux approaches, ranging from leaf-level measurements of photosynthesis to formal metabolic flux analysis using 13C labeled carbon dioxide.
 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/fluxmap.jpeg){: style="width: 70%; float: center; margin: 0px"}
+
+<em>By using 13C as a label we are able to reconstruct metabolic fluxes and tie them into leaf-level gas exchange. In this flux map we determined that carbon dioxide release does not occur at large rates from the TCA cycle in the light, an important finding for understanding the carbon balance of plants.
+Taken from Yuan Xu, Xinyu Fu, Thomas D Sharkey, Yair Shachar-Hill, and Berkley J Walker (2021) The metabolic origins of non-photorespiratory CO2 release during photosynthesis: a metabolic flux analysis. Plant Physiology (186).</em></p>
 
 
 **How does photorespiration beat the heat?** 
