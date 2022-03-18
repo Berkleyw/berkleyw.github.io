@@ -13,7 +13,7 @@ Research in our Lab reveals how photosynthetic fluxes interact with plant metabo
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/PR_US_Research.jpg){: style="width: 70%; float: center; margin: 0px"}
 
 <em>Modeling can be used to understand plant performance under dynamic conditions. Shown is how much crop yield is decreased by a photorespiration; a byproduct of photosynthesis and an area of special interest to the Walker lab.
-Taken from Walker, VanLoocke, Bernacchi and Ort (2016) The costs of photorespiration to food production now and in the future. Annual review of plant biology (67).</em></p>
+Taken from Walker, VanLoocke, Bernacchi and Ort (2016) The costs of photorespiration to food production now and in the future. Annual review of plant biology (67).</em>
 
 We have three main projects in the lab that are supported by various awards
 
@@ -24,7 +24,7 @@ Photorespiration is the second largest metabolic flux of carbon in an illuminate
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/fluxmap.jpeg){: style="width: 70%; float: center; margin: 0px"}
 
 <em>By using 13C as a label we are able to reconstruct metabolic fluxes and tie them into leaf-level gas exchange. In this flux map we determined that carbon dioxide release does not occur at large rates from the TCA cycle in the light, an important finding for understanding the carbon balance of plants.
-Taken from Yuan Xu, Xinyu Fu, Thomas D Sharkey, Yair Shachar-Hill, and Berkley J Walker (2021) The metabolic origins of non-photorespiratory CO2 release during photosynthesis: a metabolic flux analysis. Plant Physiology (186).</em></p>
+Taken from Yuan Xu, Xinyu Fu, Thomas D Sharkey, Yair Shachar-Hill, and Berkley J Walker (2021) The metabolic origins of non-photorespiratory CO2 release during photosynthesis: a metabolic flux analysis. Plant Physiology (186).</em>
 
 
 **How does photorespiration beat the heat?** 
