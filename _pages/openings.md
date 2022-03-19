@@ -1,5 +1,5 @@
 ---
-title: "Walker Lab - Vacancies"
+title: "Walker Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -7,34 +7,19 @@ permalink: /vacancies
 ---
 
 # Open positions
+I am glad you are interested in checking out the lab. Here is what we currently can offer in terms of openings.
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
+### Undergrads
+Are you a student at MSU looking for research experience or to fulfill research credits? Are you checking out a summer research experience at MSU and are interested in the lab? I am always happy to talk. We prefer students in their first or second year so that you can learn the basics and be around for a few years, but have hosted juniors and seniors as well.
 
+### PhD and Masters Students
+We currently have funding for a single PhD position starting in the Fall of 2022. This would be for a student already admitted to any MSU program involving plants, so reach out if you are looking for rotations. If you want to talk about writing a proposal to bring in your own funding I am also happy to talk. I generally take students from the MSU [Molecular Plant Sciences Program](https://mps.natsci.msu.edu/) or [BioMolecular Science program](https://biomolecular.natsci.msu.edu/), but if you are applying to any graduate program at MSU and interested in fluxes and plants, let me know.
 
+Note that we do not accept master's students.
 
+### Postoc positions
+We currently don't have any funded postdoc positions, so if you are interested in coming to the lab you will have to help get some funding. If you have time to put together an application I am always happy to help you develop ideas. If you are a US resident or citizen, sometime there are programs from the [National Science Foundation](https://beta.nsf.gov/funding) or the [Department of Energy](https://www.energy.gov/science/office-science-funding/office-science-funding-opportunities). You can also look out for Fellowships through the [Great Lakes Bioenergy Research Center](https://www.glbrc.org/about/career-opportunities). If you based outside the US we can always try for a [Fulbright](https://cies.org/non-us-scholars/fulbright-visiting-scholar-program).If you happen to be a German resident you can also try the [Alexander von Humboldt Postdoc Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship), I am a former alumni of the program and am happy to help you craft a compelling research plan.
 
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf), 
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
 
 <figure>
