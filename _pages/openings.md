@@ -23,5 +23,5 @@ We currently don't have any funded postdoc positions, so if you are interested i
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/labfinal51.jpg" width="95%">
 </figure>
