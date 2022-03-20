@@ -7,7 +7,7 @@
     url: https://academic.oup.com/plphys/advance-article-abstract/doi/10.1093/plphys/kiac065/6535719
     display:  Plant Physiology (2022)
   highlight: 0
-  news2:
+  news2: This paper was highlighted in a Plant Physiology <a href="https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiac102/6548167?login=true"> News and Views</a> article
 
 - title: Catalase protects against nonenzymatic decarboxylations during photorespiration in Arabidopsis thaliana
   image: dummy.png
@@ -63,7 +63,7 @@
 - title: The metabolic origins of non-photorespiratory CO2 release during photosynthesis; a metabolic flux analysis
   image: fluxmap.jpeg
   authors: Y Xu, X Fu, TD Sharkey, Y Shachar-Hill, BJ Walker
-  description: The metabolic origin of respiration in the light is not clear. Here is our first paper using metabolic flux analysis to shwo that it is NOT from the TCA cycle
+  description: The metabolic origin of respiration in the light is not clear. Here is our first paper using metabolic flux analysis to show that it is NOT from the TCA cycle
   link:
     url: https://academic.oup.com/plphys/article/186/1/297/6137851?login=true
     display:  Plant Physiology 186 (1), 297-314 (2021)
