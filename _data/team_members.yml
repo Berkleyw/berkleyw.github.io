@@ -13,10 +13,19 @@
   photo: Kelem.jpg
   info: Postdoc, started Oct 2021
   email: ge@Physics.LeidenUniv.nl
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+- name: Binod Basyal
+  photo: Binod.jpg
+  info: Postdoc, started Oct 2020
+  email: basyalbi@msu.edu
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Ph.D. in Biology
+  education2: B.Sc in Agriculture from Tribhuvan University, Nepal
+  education3: Loves Michigan summer, the Great Lakes, good food and soccer
 
 - name: Xinyu Fu 
   photo: Xinyu.jpg
