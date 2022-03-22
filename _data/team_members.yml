@@ -13,10 +13,10 @@
   photo: Kelem.jpg
   info: Postdoc, started Oct 2021
   email: alamriek@msu.edu
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
+  number_educ: 3
+  education1: PhD, with<a href="https://in.bgu.ac.il/en/bidr/FAAB/Pages/fait.aspx"> Aaron Fait, </a>Bengurion University of the Negev, Israel
+  education2: Interested in plant Physiology and metabolism
+  education3: <a href="https://twitter.com/GashuKelem"> Twitter</a>
 
 - name: Binod Basyal
   photo: Binod.jpg
