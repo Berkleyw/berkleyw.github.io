@@ -45,6 +45,24 @@
   education2: Likes quaint coffee shops and diner food, bowling with friends, and heading back to Pennsylvania to visit family
   education3: <a href=" https://twitter.com/LukeMGregory">Twitter</a>
 
+- name: Audrey Johnson 
+  photo: AJheadshot.jpg
+  info: Lab Manager
+  email: john1308@msu.edu
+  number_educ: 2
+  education1: B.S. from University of Michigan, M.S. work at Eastern Michigan University
+  education2: Enjoys the great outdoors, music, and crafts
+  education3:
+
+- name: Heather Roney 
+  photo: Heather.jpg
+  info: Laboratory Technician
+  email: roneyhea@msu.edu
+  number_educ: 3
+  education1: Bachelor of Science, with <a href="https://www.canr.msu.edu/">
+  education2: Laboratory Technician training, with <a href="https://prl.natsci.msu.edu/people/faculty/berkley-walker/">
+  educaion3: Likes research on climate change, solving problems, and camping. 
+
 - name: Kaila Smith
   photo: Kaila.jpeg
   info: Graduate Student
