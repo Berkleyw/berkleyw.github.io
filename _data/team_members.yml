@@ -63,6 +63,18 @@
   education2: Laboratory Technician training, with <a href="https://prl.natsci.msu.edu/people/faculty/berkley-walker/"> Berkley </a>
   education3: Likes research on climate change, solving problems, and camping. 
 
+- name: Ludmila Roze 
+  photo: Ludmila.jpg
+  info: Research Scientist
+  email: roze@msu.edu
+  number_educ: 0
+
+- name: Aikaari Ryce 
+  photo: Aikaari.png
+  info: Laboratory Technician
+  email: ryceaika@msu.edu
+  number_educ: 0
+
 - name: Kaila Smith
   photo: Kaila.jpeg
   info: Graduate Student
@@ -70,6 +82,25 @@
   number_educ: 2
   education1: BS in Biological Sciences with minors in Chemistry and Mathematics from DePaul University 
   education2: I am obsessed with my dog Potato
+
+- name: Stephanie Schmiege
+  photo: BlankFace.png
+  info: Postdoctoral Scholar co-advised by <a href="https://bmb.natsci.msu.edu/faculty/thomas-d-sharkey/"> Tom Sharkey</a>
+  email: schmie18@msu.edu
+  number_educ: 0
+
+- name: Anne Steensma
+  photo: Anne.png
+  info: Graduate Student co-advised by <a href="https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/"> Yair Shachar-Hill</a>
+  email: steens11@msu.edu
+  number_educ: 1
+  education1: <a href="https://mps.natsci.msu.edu/research-people/students/anne-steensma/"> Quick Profile</a>
+
+- name: Deserah Strand
+  photo: Des.jpg
+  info: Postdoctoral Scholar
+  email: strandd1@msu.edu
+  number_educ: 0
 
 - name: "This could be you !"
   photo: BlankFace.png
