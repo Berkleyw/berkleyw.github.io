@@ -18,7 +18,7 @@
   education2: Interested in plant Physiology and metabolism
   education3: <a href="https://twitter.com/GashuKelem"> Twitter</a>
 
-- name: Binod Basyal
+- name: Binod Basyal, started Oct 2021
   photo: Binod.jpg
   info: Postdoc, started Oct 2020
   email: basyalbi@msu.edu
@@ -83,17 +83,20 @@
   education2: I am obsessed with my dog Potato
 
 - name: Stephanie Schmiege
-  photo: BlankFace.png
-  info: Postdoctoral Scholar co-advised by <a href="https://bmb.natsci.msu.edu/faculty/thomas-d-sharkey/"> Tom Sharkey</a>
+  photo: Schmiege.jpg
+  info: Postdoctoral Scholar co-advised by <a href="https://bmb.natsci.msu.edu/faculty/thomas-d-sharkey/"> Tom Sharkey</a> and <a href="https://www.uwo.ca/biology/directory/faculty/way.html"> at Western University, Ontario Canada 
   email: schmie18@msu.edu
-  number_educ: 0
+  number_educ: 2
+  education1: PhD, with <a href=”https://e3b.columbia.edu/faculty/kevin-l-griffin/”>Kevin Griffin</a>, Columbia University and <a href=” https://www.nybg.org/person/dennis-stevenson/”>Dennis Stevenson</a>, New York Botanical Garden 
+  education2: Enjoys hiking, canoeing, and painting 
 
 - name: Anne Steensma
   photo: Anne.png
   info: Graduate Student co-advised by <a href="https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/"> Yair Shachar-Hill</a>
   email: steens11@msu.edu
-  number_educ: 1
-  education1: <a href="https://mps.natsci.msu.edu/research-people/students/anne-steensma/"> Quick Profile</a>
+  number_educ: 2
+  education1: BA in Biological Chemistry (minor in Statistics) from Grinnell College
+  education2: <a href="https://mps.natsci.msu.edu/research-people/students/anne-steensma/"> Quick Profile</a>
 
 - name: Deserah Strand
   photo: Des.jpg
