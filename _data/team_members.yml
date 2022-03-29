@@ -104,6 +104,17 @@
   email: strandd1@msu.edu
   number_educ: 0
 
+- name: Mauricio Tejera
+  photo: MauriPic_field_sm.jpg
+  info: GLBRC Keegstra Fellow - postdoctoral researcher
+  email: mauri@msu.edu
+  number_educ: 5
+  education1: PhD, with , Iowa State University, USA 
+  education2: MSc and BSc, with <a href="https://agronomy.wisc.edu/valentin-picasso/"> Valentin Picasso </a>, Universidad de la Republica, Uruguay
+  education3: Fascinated by the perenniality of plants and how they fool death
+  education4: <a href="https://www.glbrc.org/news/mauricio-tejera-tracking-carbon-flux-switchgrass"> Bio </a>
+  education5: <a href="https://twitter.com/PerennialDr"> Twitter </a>
+
 - name: "This could be you !"
   photo: BlankFace.png
   info: See <a href="http://www.berkleywalker.org/vacancies">openings</a> for more info
