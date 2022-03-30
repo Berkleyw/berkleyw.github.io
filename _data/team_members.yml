@@ -1,6 +1,6 @@
 - name: Berkley Walker
   photo: Berkley.jpg
-  info: Assistant professor
+  info: Assistant professor, started August 2018
   email: berkley@msu.edu
   number_educ: 5
   education1: PhD, with <a href="https://sbs.wsu.edu/asaphcousins/">Asaph Cousins</a>, Washington State University
@@ -18,9 +18,9 @@
   education2: Interested in plant Physiology and metabolism
   education3: <a href="https://twitter.com/GashuKelem"> Twitter</a>
 
-- name: Binod Basyal, started Oct 2021
+- name: Binod Basyal
   photo: Binod.jpg
-  info: Postdoc, started Oct 2020
+  info: Postdoc, started May 2020
   email: basyalbi@msu.edu
   number_educ: 3
   education1: Ph.D. in Biology
@@ -29,7 +29,7 @@
 
 - name: Xinyu Fu 
   photo: Xinyu.jpg
-  info: Postdoctoral Scholar
+  info: Postdoctoral Scholar, started June 2019
   email: fuxinyu2@msu.edu
   number_educ: 3
   education1: PhD, Iowa State University
@@ -38,7 +38,7 @@
 
 - name: Luke Gregory 
   photo: Gregory.jpg
-  info: Graduate Student
+  info: Graduate Student, started August 2020
   email: grego215@msu.edu
   number_educ: 3
   education1: BS in Biology (minors in Chemistry and Leadership Studies) at Slippery Rock University 
@@ -56,7 +56,7 @@
 
 - name: Heather Roney 
   photo: Heather.jpg
-  info: Laboratory Technician
+  info: Laboratory Technician, started March 2021
   email: roneyhea@msu.edu
   number_educ: 2
   education1: Bachelor of Science, at <a href="https://www.canr.msu.edu/"> MSU</a>
@@ -70,13 +70,13 @@
 
 - name: Aikaari Ryce 
   photo: Aikaari.png
-  info: Laboratory Technician
+  info: Laboratory Technician, started February 2022
   email: ryceaika@msu.edu
   number_educ: 0
 
 - name: Kaila Smith
   photo: Kaila.jpeg
-  info: Graduate Student
+  info: Graduate Student, started August 2020
   email: smit3147@msu.edu
   number_educ: 2
   education1: BS in Biological Sciences with minors in Chemistry and Mathematics from DePaul University 
@@ -92,7 +92,7 @@
 
 - name: Anne Steensma
   photo: Anne.png
-  info: Graduate Student co-advised by <a href="https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/"> Yair Shachar-Hill</a>
+  info: Graduate Student co-advised by <a href="https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/"> Yair Shachar-Hill</a>, started February 2022
   email: steens11@msu.edu
   number_educ: 2
   education1: BA in Biological Chemistry (minor in Statistics) from Grinnell College
@@ -100,13 +100,13 @@
 
 - name: Deserah Strand
   photo: Des.jpg
-  info: Postdoctoral Scholar
+  info: Postdoctoral Scholar, started January 2021
   email: strandd1@msu.edu
   number_educ: 0
 
 - name: Mauricio Tejera
   photo: MauriPic_field_sm.jpg
-  info: GLBRC Keegstra Fellow - postdoctoral researcher
+  info: GLBRC Keegstra Fellow - postdoctoral researcher, started March 2019
   email: mauri@msu.edu
   number_educ: 5
   education1: PhD, with , Iowa State University, USA 
