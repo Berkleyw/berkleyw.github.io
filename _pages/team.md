@@ -135,3 +135,6 @@ permalink: /team/
 <!-- </div> -->
 {% endif %}
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/lab_spring_2022.jpg" width="95%">
+</figure>
